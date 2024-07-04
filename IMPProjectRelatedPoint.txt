@@ -1,0 +1,10 @@
+1. when you register the user as Admin 
+  password should be Admin@123(one capital, one special character , number value should be there max size 8)
+
+2. All service is authenticated so you need to pass jwt token.
+
+3.  We get jwt token from login API in token property.
+
+4. Using Code first Approach so you should be run add-migration and update-database command
+
+5. You can change connection string from AppSetting.Json as per your database name and local host.
