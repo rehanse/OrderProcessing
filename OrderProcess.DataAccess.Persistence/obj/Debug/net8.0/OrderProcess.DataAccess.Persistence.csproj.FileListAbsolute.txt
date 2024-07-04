@@ -1,0 +1,17 @@
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\bin\Debug\net8.0\OrderProcess.DataAccess.Persistence.deps.json
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\bin\Debug\net8.0\OrderProcess.DataAccess.Persistence.runtimeconfig.json
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\bin\Debug\net8.0\OrderProcess.DataAccess.Persistence.dll
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\bin\Debug\net8.0\OrderProcess.DataAccess.Persistence.pdb
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\bin\Debug\net8.0\OrderProcessing.DataAccess.Domain.dll
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\bin\Debug\net8.0\OrderProcessing.DataAccess.Domain.pdb
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.csproj.AssemblyReference.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.AssemblyInfoInputs.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.AssemblyInfo.cs
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.csproj.CoreCompileInputs.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderPro.6213C4A3.Up2Date
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.dll
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\refint\OrderProcess.DataAccess.Persistence.dll
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.pdb
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\OrderProcess.DataAccess.Persistence.genruntimeconfig.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcess.DataAccess.Persistence\obj\Debug\net8.0\ref\OrderProcess.DataAccess.Persistence.dll

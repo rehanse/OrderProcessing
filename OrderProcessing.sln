@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F2D69472-F851-4572-B9F5-83BE92C917D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E038DC68-073F-4A3D-A262-A8EE9B98DAB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{5E18F33A-E2E6-42FD-8653-BFB562B9E294}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{949AC14A-CBE2-4187-A54D-DA7C397187AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastracture", "Infrastracture", "{1A3989B7-AE7B-40D6-BED7-58C5C0B06610}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessing.API", "OrderProcessing.API\OrderProcessing.API.csproj", "{5B0602E5-9B21-4577-92F1-B03BF2F585DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessing.DataAccess.Domain", "OrderProcessing.DataAccess.Domain\OrderProcessing.DataAccess.Domain.csproj", "{BA882B6B-AC06-451A-92AB-AD9524D2F626}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcess.DataAccess.Persistence", "OrderProcess.DataAccess.Persistence\OrderProcess.DataAccess.Persistence.csproj", "{DF308B10-00EF-4AE2-8E94-0A5105539FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessXunitTest", "OrderProcessXunitTest\OrderProcessXunitTest.csproj", "{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0602E5-9B21-4577-92F1-B03BF2F585DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0602E5-9B21-4577-92F1-B03BF2F585DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0602E5-9B21-4577-92F1-B03BF2F585DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0602E5-9B21-4577-92F1-B03BF2F585DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA882B6B-AC06-451A-92AB-AD9524D2F626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA882B6B-AC06-451A-92AB-AD9524D2F626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA882B6B-AC06-451A-92AB-AD9524D2F626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA882B6B-AC06-451A-92AB-AD9524D2F626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF308B10-00EF-4AE2-8E94-0A5105539FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF308B10-00EF-4AE2-8E94-0A5105539FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF308B10-00EF-4AE2-8E94-0A5105539FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF308B10-00EF-4AE2-8E94-0A5105539FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E18F33A-E2E6-42FD-8653-BFB562B9E294} = {F2D69472-F851-4572-B9F5-83BE92C917D7}
+		{949AC14A-CBE2-4187-A54D-DA7C397187AF} = {F2D69472-F851-4572-B9F5-83BE92C917D7}
+		{1A3989B7-AE7B-40D6-BED7-58C5C0B06610} = {F2D69472-F851-4572-B9F5-83BE92C917D7}
+		{5B0602E5-9B21-4577-92F1-B03BF2F585DF} = {5E18F33A-E2E6-42FD-8653-BFB562B9E294}
+		{BA882B6B-AC06-451A-92AB-AD9524D2F626} = {949AC14A-CBE2-4187-A54D-DA7C397187AF}
+		{DF308B10-00EF-4AE2-8E94-0A5105539FC2} = {1A3989B7-AE7B-40D6-BED7-58C5C0B06610}
+		{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D} = {E038DC68-073F-4A3D-A262-A8EE9B98DAB1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C399A030-0232-4824-AF13-A289A19FCBFD}
+	EndGlobalSection
+EndGlobal

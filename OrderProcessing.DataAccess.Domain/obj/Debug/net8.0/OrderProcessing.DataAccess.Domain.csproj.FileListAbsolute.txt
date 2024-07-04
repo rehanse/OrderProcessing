@@ -1,0 +1,14 @@
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\bin\Debug\net8.0\OrderProcessing.DataAccess.Domain.deps.json
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\bin\Debug\net8.0\OrderProcessing.DataAccess.Domain.runtimeconfig.json
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\bin\Debug\net8.0\OrderProcessing.DataAccess.Domain.dll
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\bin\Debug\net8.0\OrderProcessing.DataAccess.Domain.pdb
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.csproj.AssemblyReference.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.AssemblyInfoInputs.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.AssemblyInfo.cs
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.csproj.CoreCompileInputs.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.dll
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\refint\OrderProcessing.DataAccess.Domain.dll
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.pdb
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\OrderProcessing.DataAccess.Domain.genruntimeconfig.cache
+E:\Rehan\Project\repo\OrderProcessing\OrderProcessing.DataAccess.Domain\obj\Debug\net8.0\ref\OrderProcessing.DataAccess.Domain.dll

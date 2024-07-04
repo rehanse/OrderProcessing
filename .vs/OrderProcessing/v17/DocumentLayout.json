@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Rehan\\Project\\repo\\OrderProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D}|OrderProcessXunitTest\\OrderProcessXunitTest.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessxunittest\\controller\\orderprocesscontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0A35D1-DC32-4DEE-B5E3-EA78831E849D}|OrderProcessXunitTest\\OrderProcessXunitTest.csproj|solutionrelative:orderprocessxunittest\\controller\\orderprocesscontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\features\\orders\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\features\\orders\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|solutionrelative:orderprocessing.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|solutionrelative:orderprocessing.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocess.dataaccess.persistence\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|solutionrelative:orderprocess.dataaccess.persistence\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocess.dataaccess.persistence\\persistenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|solutionrelative:orderprocess.dataaccess.persistence\\persistenceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\torders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\torders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\Migrations\\20240704194059_V2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderProcess.DataAccess.Persistence\\Migrations\\20240704194059_V2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|solutionrelative:orderprocessing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\contracts\\persistence\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\contracts\\persistence\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|solutionrelative:orderprocessing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.api\\models\\exception\\exceptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|solutionrelative:orderprocessing.api\\models\\exception\\exceptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocess.dataaccess.persistence\\databasecontext\\orderprocessdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|solutionrelative:orderprocess.dataaccess.persistence\\databasecontext\\orderprocessdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocess.dataaccess.persistence\\repositories\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF308B10-00EF-4AE2-8E94-0A5105539FC2}|OrderProcess.DataAccess.Persistence\\OrderProcess.DataAccess.Persistence.csproj|solutionrelative:orderprocess.dataaccess.persistence\\repositories\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.api\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0602E5-9B21-4577-92F1-B03BF2F585DF}|OrderProcessing.API\\OrderProcessing.API.csproj|solutionrelative:orderprocessing.api\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\contracts\\persistence\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\contracts\\persistence\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\mappingprofiles\\ordersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\mappingprofiles\\ordersprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\orderprocess\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\orderprocess\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\identity\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\identity\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\identity\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\identity\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\features\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\features\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\identity\\responsestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\identity\\responsestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|e:\\rehan\\project\\repo\\orderprocessing\\orderprocessing.dataaccess.domain\\identity\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA882B6B-AC06-451A-92AB-AD9524D2F626}|OrderProcessing.DataAccess.Domain\\OrderProcessing.DataAccess.Domain.csproj|solutionrelative:orderprocessing.dataaccess.domain\\identity\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProcessControllerUnitTest.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessXunitTest\\Controller\\OrderProcessControllerUnitTest.cs",
+              "RelativeDocumentMoniker": "OrderProcessXunitTest\\Controller\\OrderProcessControllerUnitTest.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessXunitTest\\Controller\\OrderProcessControllerUnitTest.cs",
+              "RelativeToolTip": "OrderProcessXunitTest\\Controller\\OrderProcessControllerUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:59:04.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderProcessing.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:49:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersistenceServices.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\PersistenceServices.cs",
+              "RelativeDocumentMoniker": "OrderProcess.DataAccess.Persistence\\PersistenceServices.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\PersistenceServices.cs",
+              "RelativeToolTip": "OrderProcess.DataAccess.Persistence\\PersistenceServices.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:46:04.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TORDERS.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\TORDERS.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\TORDERS.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\TORDERS.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\TORDERS.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:09:17.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderProcessing.API\\appsettings.json",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\appsettings.json",
+              "RelativeToolTip": "OrderProcessing.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T16:16:43.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionDto.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Models\\Exception\\ExceptionDto.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.API\\Models\\Exception\\ExceptionDto.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Models\\Exception\\ExceptionDto.cs",
+              "RelativeToolTip": "OrderProcessing.API\\Models\\Exception\\ExceptionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:51:56.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersDto.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Features\\Orders\\OrdersDto.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Features\\Orders\\OrdersDto.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Features\\Orders\\OrdersDto.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Features\\Orders\\OrdersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:21:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcess.DataAccess.Persistence\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "OrderProcess.DataAccess.Persistence\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:11:58.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "OrderProcessing.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:50:31.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240704194059_V2.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\Migrations\\20240704194059_V2.cs",
+              "RelativeDocumentMoniker": "OrderProcess.DataAccess.Persistence\\Migrations\\20240704194059_V2.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\Migrations\\20240704194059_V2.cs",
+              "RelativeToolTip": "OrderProcess.DataAccess.Persistence\\Migrations\\20240704194059_V2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:40:59.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.API\\Program.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Program.cs",
+              "RelativeToolTip": "OrderProcessing.API\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:30:59.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IOrdersRepository.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IOrdersRepository.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IOrdersRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:19:32.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderProcessDatabaseContext.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\DatabaseContext\\OrderProcessDatabaseContext.cs",
+              "RelativeDocumentMoniker": "OrderProcess.DataAccess.Persistence\\DatabaseContext\\OrderProcessDatabaseContext.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\DatabaseContext\\OrderProcessDatabaseContext.cs",
+              "RelativeToolTip": "OrderProcess.DataAccess.Persistence\\DatabaseContext\\OrderProcessDatabaseContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:11:12.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.API\\Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.API\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "OrderProcessing.API\\Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:58:09.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\Repositories\\UserAuthenticationService.cs",
+              "RelativeDocumentMoniker": "OrderProcess.DataAccess.Persistence\\Repositories\\UserAuthenticationService.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcess.DataAccess.Persistence\\Repositories\\UserAuthenticationService.cs",
+              "RelativeToolTip": "OrderProcess.DataAccess.Persistence\\Repositories\\UserAuthenticationService.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAIBJwHkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:00:40.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdersProfile.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\MappingProfiles\\OrdersProfile.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\MappingProfiles\\OrdersProfile.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\MappingProfiles\\OrdersProfile.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\MappingProfiles\\OrdersProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:25:23.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IUserAuthenticationService.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IUserAuthenticationService.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IUserAuthenticationService.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Contracts\\Persistence\\IUserAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:24:22.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\OrderProcess\\Orders.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\OrderProcess\\Orders.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\OrderProcess\\Orders.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\OrderProcess\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:08:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\LoginModel.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Identity\\LoginModel.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\LoginModel.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Identity\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:48:31.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Identity\\ApplicationUser.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Identity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:46:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Features\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Features\\BaseEntity.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Features\\BaseEntity.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Features\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:05:47.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:24:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:24:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Identity\\RegisterModel.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\RegisterModel.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Identity\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:49:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResponseStatus.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\ResponseStatus.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Identity\\ResponseStatus.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\ResponseStatus.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Identity\\ResponseStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:51:26.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\UserRoles.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.DataAccess.Domain\\Identity\\UserRoles.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\OrderProcessing\\OrderProcessing.DataAccess.Domain\\Identity\\UserRoles.cs",
+              "RelativeToolTip": "OrderProcessing.DataAccess.Domain\\Identity\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:49:42.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
